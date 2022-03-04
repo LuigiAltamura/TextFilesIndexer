@@ -1,3 +1,5 @@
+This Java program allows you to index text files.
+
 To develop this application, I decided to index the files using the Apache Lucene library, in particular version 8.11.1 released on December 16, 2021.
 
 For the sake of simplicity, I placed the folder where the index files are saved inside the resources folder (src/main/resources). Same thing holds for the text files I used to do tests.
